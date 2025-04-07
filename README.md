@@ -14,7 +14,7 @@
  •	Webpack •	Vite •	Git •	Figma •	Jest •	Cypress
 
 ## Мои работы 
-- [Онлайн магазин-бургерная](https://github.com/Aldenwrk/stellar-burgers)
+- Онлайн магазин-бургерная[Развёрнутый проект](https://illustrious-meerkat-ee254f.netlify.app/)[Репозиторий](https://github.com/Aldenwrk/stellar-burgers)
 - [Онлайн магазин для фронтенд-разработчиков ](https://github.com/Aldenwrk/web-larek-frontend)
 - [Страница-кастомайзер](https://github.com/Aldenwrk/blog-customizer)
 <div align='left'>
